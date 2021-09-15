@@ -222,6 +222,10 @@ docs:
     variable:
       coordinates: [ 102.5537728, 44.1032507 ]
       title: Variable stars
+    eclipsing:
+      coordinates: [13.572527, 8.874651]
+      period: 1.739625
+      title: Eclipsing variable
 
 features:
   phenomenological_d12:
